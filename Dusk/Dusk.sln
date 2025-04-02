@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LevelPlay.Editor", "Unity.LevelPlay.Editor.csproj", "{43535501-3C48-BF2B-D533-B6C39AB09D64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{63A8653E-9894-8D3C-9203-57210F6B9D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.LevelPlay", "Unity.LevelPlay.csproj", "{A4D87FB0-0CD3-87AE-4378-E13B3A560390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43535501-3C48-BF2B-D533-B6C39AB09D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43535501-3C48-BF2B-D533-B6C39AB09D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43535501-3C48-BF2B-D533-B6C39AB09D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43535501-3C48-BF2B-D533-B6C39AB09D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A8653E-9894-8D3C-9203-57210F6B9D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A8653E-9894-8D3C-9203-57210F6B9D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A8653E-9894-8D3C-9203-57210F6B9D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A8653E-9894-8D3C-9203-57210F6B9D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4D87FB0-0CD3-87AE-4378-E13B3A560390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4D87FB0-0CD3-87AE-4378-E13B3A560390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4D87FB0-0CD3-87AE-4378-E13B3A560390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4D87FB0-0CD3-87AE-4378-E13B3A560390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

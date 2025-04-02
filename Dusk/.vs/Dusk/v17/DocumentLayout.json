@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Dusk\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|D:\\Documents\\Dusk\\assets\\scripts\\traps\\trap_saw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\trap_saw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|d:\\documents\\dusk\\assets\\scripts\\traps\\trap_sawwaypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\traps\\trap_sawwaypoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|d:\\documents\\dusk\\assets\\scripts\\ads\\ads_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ads\\ads_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|d:\\documents\\dusk\\assets\\scripts\\ads\\rewarded_ads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ads\\rewarded_ads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|d:\\documents\\dusk\\assets\\scripts\\enemies\\enemy_chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemy_chicken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|d:\\documents\\dusk\\assets\\scripts\\ui\\ui_healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\ui_healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|D:\\Documents\\Dusk\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A8653E-9894-8D3C-9203-57210F6B9D6A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ADS_Manager.cs",
+              "DocumentMoniker": "d:\\Documents\\Dusk\\Assets\\Scripts\\ADS\\ADS_Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ADS\\ADS_Manager.cs",
+              "ToolTip": "d:\\Documents\\Dusk\\Assets\\Scripts\\ADS\\ADS_Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ADS\\ADS_Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:33:51.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rewarded_ads.cs",
+              "DocumentMoniker": "d:\\Documents\\Dusk\\Assets\\Scripts\\ADS\\Rewarded_ads.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ADS\\Rewarded_ads.cs",
+              "ToolTip": "d:\\Documents\\Dusk\\Assets\\Scripts\\ADS\\Rewarded_ads.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ADS\\Rewarded_ads.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:33:23.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy_Chicken.cs",
+              "DocumentMoniker": "d:\\Documents\\Dusk\\Assets\\Scripts\\Enemies\\Enemy_Chicken.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Enemy_Chicken.cs",
+              "ToolTip": "d:\\Documents\\Dusk\\Assets\\Scripts\\Enemies\\Enemy_Chicken.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Enemy_Chicken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:33:19.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UI_HealthBar.cs",
+              "DocumentMoniker": "d:\\Documents\\Dusk\\Assets\\Scripts\\UI\\UI_HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UI_HealthBar.cs",
+              "ToolTip": "d:\\Documents\\Dusk\\Assets\\Scripts\\UI\\UI_HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\UI_HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:33:14.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trap_Saw.cs",
+              "DocumentMoniker": "D:\\Documents\\Dusk\\Assets\\Scripts\\Traps\\Trap_Saw.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\Trap_Saw.cs",
+              "ToolTip": "D:\\Documents\\Dusk\\Assets\\Scripts\\Traps\\Trap_Saw.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\Trap_Saw.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:21:10.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trap_SawWaypoint.cs",
+              "DocumentMoniker": "d:\\Documents\\Dusk\\Assets\\Scripts\\Traps\\Trap_SawWaypoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Traps\\Trap_SawWaypoint.cs",
+              "ToolTip": "d:\\Documents\\Dusk\\Assets\\Scripts\\Traps\\Trap_SawWaypoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Traps\\Trap_SawWaypoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:21:04.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Documents\\Dusk\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "D:\\Documents\\Dusk\\Assets\\Scripts\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
+              "ViewState": "AgIAALoBAAAAAAAAAAAAAAMBAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T16:37:48.684Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
